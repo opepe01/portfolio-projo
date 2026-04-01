@@ -1,0 +1,17 @@
+.hero {
+
+    height: 50vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+
+}
+
+
+.row {
+    max-width: 1024px;
+    margin-top: auto;
+    display: flex;
+}
